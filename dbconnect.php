@@ -1,7 +1,7 @@
 <?php
  
 $DB_SERVER = "localhost";
-$DB_DATABASE = "bacefook";
+$DB_DATABASE = "imageboard";
 $DB_USERNAME = "root";
 $DB_PASSWORD = "";
  
