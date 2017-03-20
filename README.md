@@ -1,4 +1,4 @@
-![mainpg](http://imgur.com/a/l3fiV)
+![mainpg](http://i.imgur.com/0AphOZB.png)
 ![mainpg2](http://i.imgur.com/50BY68O.png)
 
 
